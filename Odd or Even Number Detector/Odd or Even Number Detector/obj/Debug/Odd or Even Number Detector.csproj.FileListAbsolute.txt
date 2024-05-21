@@ -1,0 +1,10 @@
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\bin\Debug\Odd or Even Number Detector.exe.config
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\bin\Debug\Odd or Even Number Detector.exe
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\bin\Debug\Odd or Even Number Detector.pdb
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd or Even Number Detector.csproj.AssemblyReference.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd_or_Even_Number_Detector.Form1.resources
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd_or_Even_Number_Detector.Properties.Resources.resources
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd or Even Number Detector.csproj.GenerateResource.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd or Even Number Detector.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd or Even Number Detector.exe
+C:\Users\dhana\Downloads\Fun with C# .Net\Odd or Even Number Detector\Odd or Even Number Detector\obj\Debug\Odd or Even Number Detector.pdb
