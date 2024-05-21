@@ -1,0 +1,10 @@
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\bin\Debug\Square or Rectangle Area Calculator.exe.config
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\bin\Debug\Square or Rectangle Area Calculator.exe
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\bin\Debug\Square or Rectangle Area Calculator.pdb
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square or Rectangle Area Calculator.csproj.AssemblyReference.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square_or_Rectangle_Area_Calculator.Form1.resources
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square_or_Rectangle_Area_Calculator.Properties.Resources.resources
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square or Rectangle Area Calculator.csproj.GenerateResource.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square or Rectangle Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square or Rectangle Area Calculator.exe
+C:\Users\dhana\Downloads\Fun with C# .Net\Square or Rectangle Area Calculator\Square or Rectangle Area Calculator\obj\Debug\Square or Rectangle Area Calculator.pdb
